@@ -26,7 +26,7 @@ This project is designed to detect and provide information about nearby plants a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ayurvedic-plant-detection.git
+git clone https://github.com/riteshranjansah/ayurvedic-plant-detection.git
 ```
 
 ### 2. Setup MySQL Database
